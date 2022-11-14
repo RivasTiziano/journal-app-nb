@@ -11,8 +11,17 @@ describe('Tests in fileUpload.test.js', () => {
 
         const url = await fileUpload( file );
         expect( typeof url ).toBe('string');
+<<<<<<< HEAD
 
         //asdasa
+=======
+<<<<<<< HEAD
+        
+        //elchisi
+=======
+ 
+>>>>>>> 36ae05ab957dec4a66e9fde0b0409c7aa34c0600
+>>>>>>> 062efe4a732b19af345f210bab5e002d23dd881a
     })
 
 })
